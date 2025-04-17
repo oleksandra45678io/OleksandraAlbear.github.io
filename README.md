@@ -73,3 +73,8 @@ Feel free to reach out if you're interested in collaboration or have any questio
 **LinkedIn: linkedin.com/in/oleksandra-albear-rodrihes-404539342** 
 
 Thanks for reading!
+
+
+
+📄 [Download Depth47 Design Document](AlbearRodrihes_GameDesignDocument.docx)
+📄 [Download ItaiKai Narrative Overview](AlbearRodrihes_Game Concept.docx)
