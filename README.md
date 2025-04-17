@@ -76,5 +76,4 @@ Thanks for reading!
 
 
 
-📄 [Download Depth47 Design Document](AlbearRodrihes_GameDesignDocument.docx)
-📄 [Download ItaiKai Narrative Overview](AlbearRodrihes_Game Concept.docx)
+
