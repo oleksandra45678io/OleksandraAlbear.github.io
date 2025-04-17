@@ -69,7 +69,7 @@ A short, high-speed third-person parkour game where the player has 60 seconds to
 
 Feel free to reach out if you're interested in collaboration or have any questions.
 
-**Email:** (add your email here)  
-**LinkedIn / Portfolio site:** (add link if you have one)
+**Email: hakuiamikaella@gmail.com** 
+**LinkedIn: linkedin.com/in/oleksandra-albear-rodrihes-404539342** 
 
 Thanks for reading!
